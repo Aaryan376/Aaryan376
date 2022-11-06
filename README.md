@@ -11,11 +11,6 @@ I'm currently final year computer science undergraduate.<br>I'm majorly interest
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aaryan376&theme=dark&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aaryan376&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aaryan376&icon=0&color=0)](https://visitcount.itsvg.in)

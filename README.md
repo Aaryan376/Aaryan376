@@ -1,6 +1,6 @@
 # Hey Everyone, I am Aaryan
 # 💫 About Me:
-I'm currently final year computer science undergraduate.<br>I'm majorly interested in Web technologies and Cloud Computing.<br>Currently, I am working on ReactJS and would like to collaborate on projects related to the web.<br>Also, I am exploring APIs and wonders we can do using APIs.
+I'm a  2023 B.tech graduate in computer science.<br>I'm majorly interested in Web technologies and Cloud Computing.<br>Currently, I am working on ReactJS and would like to collaborate on projects related to the web.<br>Also, I am exploring APIs and wonders we can do using APIs.
 
 
 ## 🌐 Socials:
